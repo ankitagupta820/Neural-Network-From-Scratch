@@ -22,5 +22,8 @@ The loss is computed using Cross Entropy loss function.
 ### Results
 The model achieves a training accuracy of **94.7%** and a test accuracy of **93.4%**. 
 
+![image](https://user-images.githubusercontent.com/65870621/113949460-3136ef00-97c4-11eb-88e5-9c35f0d51cf6.png)
+
+
 
  
